@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="http://www.postimees.ee/rss" rel="self" type="application/rss+xml"/>
+    <generator>RSS Generator 2.1.1</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <title>Postimees</title>
+    <language>et</language>
+    <pubDate>Mon, 23 Jan 2017 13:27:03 +0000</pubDate>
+    <link>http://www.postimees.ee</link>
+    <description>Postimees: Värsked uudised Eestist ja välismaalt. Loe lähemalt</description>
+    <image>
+      <url>http://f.pmo.ee/s/img/p_logo_online.png</url>
+      <title>Postimees</title>
+      <link>http://www.postimees.ee</link>
+      <width>200</width>
+      <height>67</height>
+      <description>Postimees: Värsked uudised Eestist ja välismaalt. Loe lähemalt</description>
+    </image>
+    <item>
+      <title>Idamaade kalendri järgi algab 28. veebruaril Punase Tulekuke aasta</title>
+      <description>Idamaade kalendris algab 28. veebruaril Punase Tulekuke aasta, mis kestab 16. veebruarini 2018 ning seda tähistatakse eelkõige Hiinas, kus see on aasta tähtsaim püha.</description>
+      <link>http://pmo.ee/3989093</link>
+      <guid isPermaLink="false">pm#3989093</guid>
+      <pubDate>Mon, 23 Jan 2017 15:25:08 +0200</pubDate>
+      <author>Inna-Katrin Hein</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/16">Kirev elu</category>
+      <enclosure url="https://f9.pmo.ee/RvN9gXBeBbKaDuVlC7aK6v_SwuU=/480x270/smart/nginx/o/2017/01/23/6272883t1h6a7e.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ennustusportaal: Eesti võtab tippkokkade olümpial aegade kõrgeima tulemuse</title>
+      <description>Sel nädalal, 24.– 25. jaanuaril toimub tippkokkade olümpiaks tituleeritud suurvõistluse Bocuse d’Or-i finaal Prantsusmaal Lyonis. Eestit on esindamas tippkokk Dmitri Rooz, kes on võidelnud välja koha finaalis ja astub võistlustulle juba 25. jaanuaril. Kas tal õnnestub ületada Eesti senine kõrgeim positsioon finaalis ehk 14. koht? Eesti vanima ja suurima ennustusportaali Triobeti analüütikud annavad oma hinnangu.</description>
+      <link>http://pmo.ee/3988763</link>
+      <guid isPermaLink="false">pm#3988763</guid>
+      <pubDate>Mon, 23 Jan 2017 15:20:58 +0200</pubDate>
+      <author>Dagmar Lamp</author>
+      <category domain="http://naine24.postimees.ee">Naine</category>
+      <category domain="http://naine24.postimees.ee/rubriik/316">Köök </category>
+      <enclosure url="https://f7.pmo.ee/PhLNgiVXIZ8wU5_9k3hGTmUYW4E=/480x270/smart/nginx/o/2016/05/10/5363601t1h8cd5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Mart Ummelas lahkub Tallinna TVst</title>
+      <description>Eelmise aasta lõpul Tallinna TV vara omastamise kriminaalasjas kahtlustatavaks tunnistatud arvamustoimetaja Mart Ummelas lahkub järgmisel kuul ametist.</description>
+      <link>http://pmo.ee/3989087</link>
+      <guid isPermaLink="false">pm#3989087</guid>
+      <pubDate>Mon, 23 Jan 2017 15:18:55 +0200</pubDate>
+      <author>Uwe Gnadenteich</author>
+      <category domain="http://tallinncity.postimees.ee">Tallinn</category>
+      <category domain="http://tallinncity.postimees.ee/rubriik/1578">Uudised</category>
+      <category domain="http://tallinncity.postimees.ee/rubriik/271">Linnavõim</category>
+      <enclosure url="https://f9.pmo.ee/3YKzqlsgK3dRtrsEaZMKyGBZAeU=/790x743:4745x3200/480x270/smart/nginx/o/2016/12/08/6154843t1hd236.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Wismari haiglas palatikaaslase tapmises süüdistatav noormees astus kohtu ette</title>
+      <description>Harju maakohtus algas esmaspäeval kohtuprotsess noormehe üle, keda süüdistatakse 2015. aasta juunis Tallinnas Wismari haiglas palatikaaslase tapmises.</description>
+      <link>http://pmo.ee/3989083</link>
+      <guid isPermaLink="false">pm#3989083</guid>
+      <pubDate>Mon, 23 Jan 2017 15:18:10 +0200</pubDate>
+      <author>Liis Velsker</author>
+      <category domain="http://www.postimees.ee">Postimees</category>
+      <category domain="http://www.postimees.ee/rubriik/122">Eesti uudised</category>
+      <enclosure url="https://f11.pmo.ee/BJu7PSeh_HhYZJm4I1gmEoYXizg=/0x199:800x697/480x270/smart/nginx/o/2013/09/06/2327581t1hcb69.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Lugeja küsib: kas firma talvepäevadel murtud käeluu on tööõnnetus?</title>
+      <description>«Meie ettevõte korraldas talvepäevad, mil kõik töötajad said valida endale meelepärase aktiivse tegevuse. Otsustasin minna mäele suusatama, kuid kukkusin suusatades ja murdsin käeluu. Kas see on tööõnnetus?» küsis lugeja.</description>
+      <link>http://pmo.ee/3989077</link>
+      <guid isPermaLink="false">pm#3989077</guid>
+      <pubDate>Mon, 23 Jan 2017 15:12:29 +0200</pubDate>
+      <author>Maiken Mägi</author>
+      <category domain="http://tarbija24.postimees.ee">Tarbija</category>
+      <category domain="http://tarbija24.postimees.ee/rubriik/1712">Lugeja küsib</category>
+      <enclosure url="https://f7.pmo.ee/GgZM6BPnkezqH9GRe-gflMVvbLg=/480x270/smart/nginx/o/2017/01/23/6272893t1h4a9b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kuidas võita häbeliku kassi usaldust?</title>
+      <description>Hirmunud või häbelikud kassid on tegelikult üsna tavalised. Igal kassil on oma iseloom, mõned on sõbralikud ja mänguhimulised, teised tahavad aga rohkem üksinda olla.</description>
+      <link>http://pmo.ee/3989079</link>
+      <guid isPermaLink="false">pm#3989079</guid>
+      <pubDate>Mon, 23 Jan 2017 15:12:29 +0200</pubDate>
+      <author>Eleen Laasner</author>
+      <category domain="http://lemmik.postimees.ee">Lemmik</category>
+      <category domain="http://lemmik.postimees.ee/rubriik/2335">Kassid</category>
+      <enclosure url="https://f7.pmo.ee/q3Ypy7kxOkfuwBnFSxCSr9zVUYg=/480x270/smart/nginx/o/2013/11/08/2607612t1h0eab.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Suurbritannia valitsust süüdistatakse alusetus paanika õhutamises</title>
+      <description>Suurbritannia valitsusasutust süüdistatakse arulagedas ülereageerimises, pärast seda, kui võimud otsustasid riigi elanikke kampaania korras hoiatada krõbedate ahjukartulite ja tumedaks röstitud saia eest.</description>
+      <link>http://pmo.ee/3989053</link>
+      <guid isPermaLink="false">pm#3989053</guid>
+      <pubDate>Mon, 23 Jan 2017 15:07:43 +0200</pubDate>
+      <author>Heilika Leinus</author>
+      <category domain="http://tervis.postimees.ee">Tervis</category>
+      <enclosure url="https://f12.pmo.ee/uNHnsFsTujRFI5eirc7IbULp9-M=/480x270/smart/nginx/o/2017/01/23/6272881t1hf005.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Soome õpilased on koolilõunat söönud juba sada aastat tasuta!</title>
+      <description>Soome ja Rootsi on ainsad riigid maailmas, kus pakutakse tasuta koolilõunat. Küll aga jõudis komme kõigepealt Soome koolidesse, kirjutab Helsingin Sanomat</description>
+      <link>http://pmo.ee/3989039</link>
+      <guid isPermaLink="false">pm#3989039</guid>
+      <pubDate>Mon, 23 Jan 2017 15:05:37 +0200</pubDate>
+      <author>Piret Kooli</author>
+      <category domain="http://soome100.postimees.ee">Soome 100</category>
+      <category domain="http://soome100.postimees.ee/rubriik/3265">Minevik</category>
+      <enclosure url="https://f12.pmo.ee/LVGI3kMp9nu9usmSvOe_FEsm5Yk=/231x0:3118x5133/480x270/smart/nginx/o/2017/01/23/6272797t1h8836.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Video: Holland tutvustas end Trumpile humoorikal moel</title>
+      <description>Hollandi huumorisaade Zondag met Lubach pani kokku humoorika tutvustusvideo nende riigist. </description>
+      <link>http://pmo.ee/3989067</link>
+      <guid isPermaLink="false">pm#3989067</guid>
+      <pubDate>Mon, 23 Jan 2017 15:04:32 +0200</pubDate>
+      <author>Johanna Vahuri</author>
+      <category domain="http://reis.postimees.ee">Reis</category>
+      <category domain="http://reis.postimees.ee/rubriik/3235">Video</category>
+      <enclosure url="https://f11.pmo.ee/VyCIByZ6Sw-nb3RCViZXlZUq_PI=/480x270/smart/nginx/o/2017/01/23/6272879t1h6880.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Autoralli MM-sarja punktiseis</title>
+      <description>Autoralli MM-sarja juhib pärast esimest etappi valitsev maailmameister Sebastien Ogier (M-Sport), kellele järgnevad Jari-Matti Latvala (Toyota) ning Ott Tänak (M-Sport). Kokku sõidetakse hooajal 13 etappi.</description>
+      <link>http://pmo.ee/3989065</link>
+      <guid isPermaLink="false">pm#3989065</guid>
+      <pubDate>Mon, 23 Jan 2017 15:04:19 +0200</pubDate>
+      <author>Postimees Sport</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/164">Auto ja Moto</category>
+      <enclosure url="https://f11.pmo.ee/8ZEPTgYPIHymds0miZGSlSCk6S8=/671x250:1917x1278/480x270/smart/nginx/o/2017/01/18/6260627t1h9afb.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Galerii: Kunstigaleriis Temnikova &amp; Kasela avati skandaalse kunstniku Jaanus Samma näitus</title>
+      <description>Kunstigaleriis Temnikova &amp; Kasela avati skandaalse kunstniku Jaanus Samma näitus. Avamisel olid kohal poliitik Evelyn Sepp ja noored hipsterid, kellest paljud olid tulnud koos koertega. Näitusel võis näha kunstiteoseid tualettruumi  aksessuuaridest, kujutatud olid ka WC-potid ja pissuaarid.Ühe kunstiteose keskmine hind oli 4000 eurot.</description>
+      <link>http://pmo.ee/3989063</link>
+      <guid isPermaLink="false">pm#3989063</guid>
+      <pubDate>Mon, 23 Jan 2017 15:03:39 +0200</pubDate>
+      <author>Elu24.ee</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/16">Kirev elu</category>
+      <enclosure url="https://f8.pmo.ee/PQnTg5bpR_FZodod9M6eqI0tt7E=/0x83:1024x553/480x270/smart/nginx/o/2017/01/23/6272683t1h770a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Unistus Nadali ja Federeri finaalist püsib Austraalias endiselt elus</title>
+      <description>Endine maailma esireket Rafael Nadal alistas Austraalia lahtistel tennisemeistrivõistlustel 6:3, 6:3, 4:6, 6:4 prantslase Gaёl Monfilsi ja jõudis veerandfinaali.</description>
+      <link>http://pmo.ee/3989055</link>
+      <guid isPermaLink="false">pm#3989055</guid>
+      <pubDate>Mon, 23 Jan 2017 15:01:04 +0200</pubDate>
+      <author>Kristjan Jaak Kangur</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/293">Tennis</category>
+      <enclosure url="https://f9.pmo.ee/AeRdPxhszouF0It8mb-DUQq8uJs=/480x270/smart/nginx/o/2017/01/23/6272799t1h73fb.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Supermodelli kaalukaotuse taga on keeruline haigus</title>
+      <description>Gigi Hadidil on olnud suurepärane aasta. Ta juhtis koos Jay Pharoahga Ameerika muusikaauhindu, kõndis Victoria’s Secreti moeetendusel ja ta nimetati aasta rahvusvaheliseks modelliks. Selgub, et selle kõrvalt vaevas supermodelli haigus, millest ta varem ei ole rääkinud.</description>
+      <link>http://pmo.ee/3988959</link>
+      <guid isPermaLink="false">pm#3988959</guid>
+      <pubDate>Mon, 23 Jan 2017 15:00:54 +0200</pubDate>
+      <author>Ingrid Dreyersdorff</author>
+      <category domain="http://naine24.postimees.ee">Naine</category>
+      <category domain="http://naine24.postimees.ee/rubriik/863">Tervis </category>
+      <enclosure url="https://f9.pmo.ee/sXf8ldrKBYPKw_tRT9FevfP6S7Y=/480x270/smart/nginx/o/2017/01/23/6272539t1h73c8.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>USA kinokett ostab Forum Cinemase omanikfirma</title>
+      <description>SA kinokett AMC Theatres ostab ligikaudu 870 miljoni euro eest Rootsi kinofirma Nordic Cinema Group, mille koosseisu kuulub ka Baltikumis tegutsev Forum Cinemas.</description>
+      <link>http://pmo.ee/3989051</link>
+      <guid isPermaLink="false">pm#3989051</guid>
+      <pubDate>Mon, 23 Jan 2017 15:00:20 +0200</pubDate>
+      <author>BNS</author>
+      <category domain="http://majandus24.postimees.ee">Majandus</category>
+      <category domain="http://majandus24.postimees.ee/rubriik/519">Äriuudised</category>
+      <enclosure url="https://f12.pmo.ee/E1PbPb9nJPt3u5IcRs-GLYAqA_U=/480x270/smart/nginx/o/2017/01/23/6272795t1h7abe.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Tänasest saab Piirissaarele mööda jääteed</title>
+      <description>Tänasest on avatud Laaksaare ja Piirissaare vaheline jäätee neile sõidukitele, mille mass ei ületa 0,5 tonni. Sellised sõidukid on näiteks mootorkelgud ja ATVd.</description>
+      <link>http://pmo.ee/3989041</link>
+      <guid isPermaLink="false">pm#3989041</guid>
+      <pubDate>Mon, 23 Jan 2017 14:53:20 +0200</pubDate>
+      <author>Helen Mihelson</author>
+      <category domain="http://tartu.postimees.ee">Tartu Postimees</category>
+      <enclosure url="https://f9.pmo.ee/3-jweFBBWOxw1IKwv2jbZUsxNVA=/1006x0:5184x3456/480x270/smart/nginx/o/2016/01/12/4868419t1hc594.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Michal: kui Rail Balticu projekt toppab, juuakse šampanjat mitte Tallinnas, vaid Moskvas</title>
+      <description>Tänasel riigikogu majanduskomisjoni istungil oli päevakorras Eesti, Läti ja Leedu vahelise kokkuleppe tutvustus Rail Baltic raudteeühenduse arendamiseks. Reformierakondlastest riigikogu liikmed Toomas Kivimägi ja Kristen Michal leiavad, et valitsus peaks võimalikult kiiresti selle koostööga edasi liikuma.</description>
+      <link>http://pmo.ee/3989033</link>
+      <guid isPermaLink="false">pm#3989033</guid>
+      <pubDate>Mon, 23 Jan 2017 14:52:01 +0200</pubDate>
+      <author>Siiri Liiva</author>
+      <category domain="http://majandus24.postimees.ee">Majandus</category>
+      <category domain="http://majandus24.postimees.ee/rubriik/1852">Majanduspoliitika</category>
+      <enclosure url="https://f10.pmo.ee/7X-MFC8EFjly1LbPeCrxjbrdX84=/480x270/smart/nginx/o/2016/11/07/6045261t1h66cd.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Norra koondise uks löödi Northugi nina ees ootamatult kinni</title>
+      <description>Norra suusatäht Petter Northug, kes ei osalenud Tour de Skil ja timmib vormi maailmameistrivõistlusteks, soovis MK-sarja naasta, kuid jäeti Faluni etapile sõitvast Norra koondisest üllatuslikult siiski välja.</description>
+      <link>http://pmo.ee/3989027</link>
+      <guid isPermaLink="false">pm#3989027</guid>
+      <pubDate>Mon, 23 Jan 2017 14:49:42 +0200</pubDate>
+      <author>Kristjan Jaak Kangur</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/504">Talisport</category>
+      <enclosure url="https://f7.pmo.ee/SSbFWWwCrNkZNBD6VYeI-4NE0Iw=/480x270/smart/nginx/o/2016/11/23/6104779t1h01b5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Türgi võimupartei aseesimees: NATO on terroriorganisatsioon</title>
+      <description>Türgi võimupartei AKP (Õigluse ja Arengu partei) Gaziantepi piirkonna aseesimees Şamil Tayyar ütles intervjuus valitsusmeelsele päevalehele Milat, et NATO on terroriorganisatsioon, väites, et allianss on hakanud Türgi julgeolekut ohustama, vahendab Hürriet Daily.</description>
+      <link>http://pmo.ee/3989023</link>
+      <guid isPermaLink="false">pm#3989023</guid>
+      <pubDate>Mon, 23 Jan 2017 14:48:42 +0200</pubDate>
+      <author>Hurriet/PM</author>
+      <category domain="http://maailm.postimees.ee">Maailm</category>
+      <category domain="http://maailm.postimees.ee/rubriik/2277">Uudised</category>
+      <enclosure url="https://f8.pmo.ee/nvdtx1F9SFN8jpxiCAts4GVq9-Y=/480x270/smart/nginx/o/2017/01/23/6272581t1h5cf6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kolm lihtsat nippi hõrgu ahjukana valmistamiseks</title>
+      <description>Aasta algus on suurepärane aeg heita pilk oma toitumisharjumustele ning seada eesmärgiks senisest tervislikum toidusedel. </description>
+      <link>http://pmo.ee/3988757</link>
+      <guid isPermaLink="false">pm#3988757</guid>
+      <pubDate>Mon, 23 Jan 2017 14:45:11 +0200</pubDate>
+      <author>Dagmar Lamp</author>
+      <category domain="http://naine24.postimees.ee">Naine</category>
+      <category domain="http://naine24.postimees.ee/rubriik/316">Köök </category>
+      <enclosure url="https://f7.pmo.ee/7P0uJPiSNnafd5a4pJsCq_l5JAY=/480x270/smart/nginx/o/2017/01/23/6271987t1h16c6.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Põhjus, miks kodu ostmine võib olla kasulikum kui ehitamine</title>
+      <description>Päris oma kodu ehitamine on väga paljude unistus. Arvestada tuleb aga sellega, et tegu on väga ajamahuka protsessiga. </description>
+      <link>http://pmo.ee/3988801</link>
+      <guid isPermaLink="false">pm#3988801</guid>
+      <pubDate>Mon, 23 Jan 2017 14:42:00 +0200</pubDate>
+      <author>Eva-Lotta Kivi</author>
+      <category domain="http://kodu.postimees.ee">Kodu</category>
+      <enclosure url="https://f11.pmo.ee/M5v3sKFeA-duxasYZdKbisF4paM=/480x270/smart/nginx/o/2017/01/23/6272233t1h8f9f.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Bikiinimodell Joanna Krupa soovitab paljastava kaadriga heiteritel lõõgastuda</title>
+      <description>Seksikas bikiinimodell Joanna Krupa näeb oma uuel vannitoa selfiel välja nagu ta oleks alasti.</description>
+      <link>http://pmo.ee/3988997</link>
+      <guid isPermaLink="false">pm#3988997</guid>
+      <pubDate>Mon, 23 Jan 2017 14:40:39 +0200</pubDate>
+      <author>Elu24.ee</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/1">Staarid</category>
+      <enclosure url="https://f9.pmo.ee/O62KLNM1UhACn_ejx2eHa6j8K1U=/0x79:471x372/480x270/smart/nginx/o/2017/01/23/6272593t1hadbd.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Linnahalli põleng sai alguse elektrisüsteemist</title>
+      <description>Menetlejad jõudsid täna päeval selgusele, et eile Tallinna linnahallis puhkenud tulekahju sai esialgsetel andmetel alguse elektrisüsteemist.</description>
+      <link>http://pmo.ee/3988315</link>
+      <guid isPermaLink="false">pm#3988315</guid>
+      <pubDate>Mon, 23 Jan 2017 14:38:33 +0200</pubDate>
+      <author>Helen Mihelson</author>
+      <author>Karel Reisenbuk</author>
+      <category domain="http://tallinncity.postimees.ee">Tallinn</category>
+      <enclosure url="https://f11.pmo.ee/AII-KmoJsdoeibl0nsq_C-xSYTU=/0x156:3000x2000/480x270/smart/nginx/o/2017/01/23/6272373t1h9b2c.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Südamliku žesti teinud tennisetäht sai liigutava tänukaardi</title>
+      <description>Prantslane Jo-Wilfried Tsonga võitis eelmisel aastal Austraalia lahtistel tennisemeistrivõistlustel südameid sellega, et aitas ja toetas mängu ajal pallitüdrukut, kes oli valusalt serviga pihta saanud. Tänavu uuesti Melbourne’i saabudes otsustas Tsonga Twitteri vahendusel avalikkusele teada anda, et sai neiult ootamatu tänukaardi.</description>
+      <link>http://pmo.ee/3988987</link>
+      <guid isPermaLink="false">pm#3988987</guid>
+      <pubDate>Mon, 23 Jan 2017 14:31:14 +0200</pubDate>
+      <author>Kristjan Jaak Kangur</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/293">Tennis</category>
+      <enclosure url="https://f12.pmo.ee/a6OC_omdsFhMxWHf6W3VAQVz_iU=/480x270/smart/nginx/o/2017/01/23/6272559t1h6f6b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Video: kuidas näeks välja Maa, kui kõik jää planeedil ära sulaks?</title>
+      <description>Globaalse kliimasoojenemise hoog ei näita raugemise märke. Milline näeks aga välja maailm, kui kõik jää ära sulaks?</description>
+      <link>http://pmo.ee/3988953</link>
+      <guid isPermaLink="false">pm#3988953</guid>
+      <pubDate>Mon, 23 Jan 2017 14:30:39 +0200</pubDate>
+      <author>Kaur Maran</author>
+      <category domain="http://tehnika.postimees.ee">Teadus ja tehnika</category>
+      <category domain="http://tehnika.postimees.ee/rubriik/3111">Loodus</category>
+      <enclosure url="https://f8.pmo.ee/Xh6Ng10K8kAqbK27M6OL_TZz3uM=/480x270/smart/nginx/o/2017/01/23/6272527t1ha8e4.png" length="" type="image/png"/>
+    </item>
+    <item>
+      <title>PÖFF mälestab Veljo Tormist</title>
+      <description>Pimedate Ööde filmifestival mälestab pühapäeval lahkunud tunnustatud Eesti heliloojat ja koorijuhti Veljo Tormist, kes pälvis koos oma kunagise õpilase Arvo Pärdiga 2015. aastal PÖFFi elutööpreemia.</description>
+      <link>http://pmo.ee/3988985</link>
+      <guid isPermaLink="false">pm#3988985</guid>
+      <pubDate>Mon, 23 Jan 2017 14:30:20 +0200</pubDate>
+      <author>Hendrik Alla</author>
+      <category domain="http://kultuur.postimees.ee">Kultuur</category>
+      <category domain="http://kultuur.postimees.ee/rubriik/2195">Muusika</category>
+      <enclosure url="https://f11.pmo.ee/02_WORb7dIqmyYm9grXesaqhL64=/480x270/smart/nginx/o/2017/01/22/6270959t1h0406.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pimedate Ööde filmifestival mälestab lahkunud heliloojat ja filmimuusika autorit Veljo Tormist</title>
+      <description>Pimedate Ööde filmifestival mälestab pühapäeval lahkunud tunnustatud Eesti heliloojat ja koorijuhti Veljo Tormist, kes pälvis koos oma kunagise õpilase Arvo Pärdiga 2015. aastal PÖFFi elutööpreemia.</description>
+      <link>http://pmo.ee/3988981</link>
+      <guid isPermaLink="false">pm#3988981</guid>
+      <pubDate>Mon, 23 Jan 2017 14:29:07 +0200</pubDate>
+      <author>Elu24.ee</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/1">Staarid</category>
+      <category domain="http://elu24.postimees.ee/rubriik/2">Eesti staarid</category>
+      <enclosure url="https://f7.pmo.ee/yut0FORdTT4jMakIFkhuIWFxe8s=/480x270/smart/nginx/o/2017/01/22/6270949t1hd170.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Heidi Ruul: nutividin ei ole lapsehoidja!</title>
+      <description>Mul on üks rumal komme – ma kipun alatasa arvamust avaldama. Seda olukorra iseloomust sõltumata. Mul puuduvad igasugused filtrid. Kui ma näen või kuulen midagi, mis kuidagigi kriibib, ollakse sellest päris kindlasti kohe ka teadlikud. Aga eile oli teistmoodi. Ma ei tea, miks, aga ma ei suutnud umbes pooleaastasele tüdrukutirtsule nutitelefoni kätte surunud emmele (?) mitte midagi öelda. Ega teisele samasugust kasvatusmeetodit viljelevale naisterahvale, isegi mitte kolmandale. Ma olin hämmingus, siiani olen. Mida te ometi oma lastega teete?!</description>
+      <link>http://pmo.ee/3988961</link>
+      <guid isPermaLink="false">pm#3988961</guid>
+      <pubDate>Mon, 23 Jan 2017 14:18:24 +0200</pubDate>
+      <author>Heidi Ruul</author>
+      <category domain="http://naine24.postimees.ee">Naine</category>
+      <category domain="http://naine24.postimees.ee/rubriik/870">Arvamus</category>
+      <enclosure url="https://f10.pmo.ee/-LhTQ8uKaIUNaqQrLCeVIM2bHdg=/480x270/smart/nginx/o/2017/01/23/6272537t1h90a5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Liviko võib pääseda ühest kartellisüüdistusest</title>
+      <description>Postimehele teadaolevalt otsustas Tallinna ringkonnakohus 11. jaanuaril lõpetada ühe Liviko kartellisüüdistuse kohtuasja, sest väidetav kuritegu on aegunud. Süüdistaja lubas otsuse edasi kaevata.</description>
+      <link>http://pmo.ee/3988229</link>
+      <guid isPermaLink="false">pm#3988229</guid>
+      <pubDate>Mon, 23 Jan 2017 14:10:56 +0200</pubDate>
+      <author>Siiri Liiva</author>
+      <category domain="http://majandus24.postimees.ee">Majandus</category>
+      <enclosure url="https://f8.pmo.ee/TQ20VGT6p6QBZ1Rno-rc5FspSSQ=/480x270/smart/nginx/o/2017/01/22/6270641t1h4bd5.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Udu tõttu on tühistatud Londonis kümneid lende</title>
+      <description>Tiheda udu tõttu on tühistatud Londoni Heathrow lennuväljal täna ligi sada lendu.</description>
+      <link>http://pmo.ee/3988931</link>
+      <guid isPermaLink="false">pm#3988931</guid>
+      <pubDate>Mon, 23 Jan 2017 14:04:28 +0200</pubDate>
+      <author>AFP/PM</author>
+      <category domain="http://maailm.postimees.ee">Maailm</category>
+      <category domain="http://maailm.postimees.ee/rubriik/2277">Uudised</category>
+      <enclosure url="https://f7.pmo.ee/TLanP7G9L6YxbKNFUl7Rqu2SWVc=/480x270/smart/nginx/o/2017/01/23/6272505t1h866d.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kuuest üks: Liverpool sattus kardetud lühikese pausi järel plindrisse</title>
+      <description>Liverpooli jalgpallimeeskonnal lõppes 2016. aasta suurepäraselt, kuna alistas koduväljakul 1:0 teise tiitlipretendendi Manchester City. Eesti koondise kapteni Ragnar Klavani koduklubi on sel hooajal Inglismaa kõrgliigas tippmeeskondade vastu näidanud suurepärast mängu: esikuuiku tiimidele ei ole ainsana kordagi kaotatud. Samas jäetakse aina rohkem punkte tabeli teise poolde. Käimasoleva aastanumbri sees on asjad arvuliselt üsna nukrad ning viimati kaotati seni Premier League’is viimasel kohal olnud Swansea Cityle 2:3.</description>
+      <link>http://pmo.ee/3988339</link>
+      <guid isPermaLink="false">pm#3988339</guid>
+      <pubDate>Mon, 23 Jan 2017 14:00:28 +0200</pubDate>
+      <author>Madis Kalvet</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/154">Jalgpall</category>
+      <enclosure url="https://f12.pmo.ee/VaFOoWo-N8JrL5YsfpZep0Mrlsw=/1593x0:3186x1502/480x270/smart/nginx/o/2017/01/22/6271017t1h3e0d.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Ringkonnakohus teeb Keskerakonna fotovaidluses otsuse veebruaris</title>
+      <description>Tallinna ringkonnakohus otsustab veebruari keskpaigaks, kas Eesti Keskerakonnal ja parteilehte Kesknädal välja andval MTÜ-l Vaba Ajakirjandus tuleb tasuda Jill Greenbergile tema foto loata kasutamise eest enam kui 12 000 eurot.</description>
+      <link>http://pmo.ee/3988923</link>
+      <guid isPermaLink="false">pm#3988923</guid>
+      <pubDate>Mon, 23 Jan 2017 13:53:59 +0200</pubDate>
+      <author>BNS</author>
+      <category domain="http://tallinncity.postimees.ee">Tallinn</category>
+      <category domain="http://tallinncity.postimees.ee/rubriik/1578">Uudised</category>
+      <category domain="http://tallinncity.postimees.ee/rubriik/269">Krimi</category>
+      <enclosure url="https://f8.pmo.ee/A0rnXgoEAV-6n1wFK7Dcg5yI89s=/480x270/smart/nginx/o/2015/10/07/4568287t1h9979.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Kuidas hoida raha kokku, et saaks rohkem reisida?</title>
+      <description>Ilmselt unistavad kõik mingist kallist reisist, mida ajaliselt võiks küll endale lubada, kuid rahakott sellist väljaminekut ei võimalda.</description>
+      <link>http://pmo.ee/3988835</link>
+      <guid isPermaLink="false">pm#3988835</guid>
+      <pubDate>Mon, 23 Jan 2017 13:47:38 +0200</pubDate>
+      <author>Johanna Vahuri</author>
+      <category domain="http://reis.postimees.ee">Reis</category>
+      <category domain="http://reis.postimees.ee/rubriik/2825">Kasulik</category>
+      <enclosure url="https://f7.pmo.ee/svkUIwcwMMiyGZ_PEy78brDPXLI=/480x270/smart/nginx/o/2017/01/23/6272255t1hbeea.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Tuntud beebipillid kaovad Eestis müügilt</title>
+      <description>Peagi ei ole Eestist võimalik saada enam Mirelle beebipille ja ühte ärevushäire ravimit.</description>
+      <link>http://pmo.ee/3988909</link>
+      <guid isPermaLink="false">pm#3988909</guid>
+      <pubDate>Mon, 23 Jan 2017 13:44:29 +0200</pubDate>
+      <author>Heilika Leinus</author>
+      <category domain="http://tervis.postimees.ee">Tervis</category>
+      <enclosure url="https://f12.pmo.ee/v1ZEjXsJ63zwD6POAsaQxFczLGU=/480x270/smart/nginx/o/2017/01/23/6272393t1h07cf.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Hongkongi ülikooli lähedat leiti maailmasõja aegne pomm</title>
+      <description>Hongkongi ülikooli linnakust evakueeriti täna kümneid inimesi, kuna linnaku lähedal asuvalt ehitusplatsilt leiti Teise maailmasõja aegne pomm, teatas uudisteportaal Apple Daily.</description>
+      <link>http://pmo.ee/3988907</link>
+      <guid isPermaLink="false">pm#3988907</guid>
+      <pubDate>Mon, 23 Jan 2017 13:43:45 +0200</pubDate>
+      <author>AFP/BNS/PM</author>
+      <category domain="http://maailm.postimees.ee">Maailm</category>
+      <category domain="http://maailm.postimees.ee/rubriik/2277">Uudised</category>
+      <enclosure url="https://f10.pmo.ee/mBiorVy6fRfp_NNZ1YvRmanqius=/480x270/smart/nginx/o/2017/01/23/6272387t1h2f33.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Saunaahju kõrval süttis sein</title>
+      <description>Laupäeva õhtul kella kümne ajal said päästjad väljakutse Tartusse Tamme puiesteele, kus oli süttinud värskele saunaahjule liiga lähedale ehitatud sein. </description>
+      <link>http://pmo.ee/3988903</link>
+      <guid isPermaLink="false">pm#3988903</guid>
+      <pubDate>Mon, 23 Jan 2017 13:42:17 +0200</pubDate>
+      <author>TPM</author>
+      <category domain="http://tartu.postimees.ee">Tartu Postimees</category>
+      <enclosure url="https://f9.pmo.ee/-Xgg0UULEwn0Z805JFqX5EkXO34=/0x182:1346x757/480x270/smart/nginx/o/2017/01/23/6272391t1ha97a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Loomaarst selgitab, kuidas aidata leinavat kassi</title>
+      <description>«Kui pikalt leinavad kassid oma kaaslast ja kuidas aidata leinavat kassi?» küsib lugeja.</description>
+      <link>http://pmo.ee/3988761</link>
+      <guid isPermaLink="false">pm#3988761</guid>
+      <pubDate>Mon, 23 Jan 2017 13:42:00 +0200</pubDate>
+      <author>Kerti Kulper</author>
+      <category domain="http://lemmik.postimees.ee">Lemmik</category>
+      <category domain="http://lemmik.postimees.ee/rubriik/2335">Kassid</category>
+      <enclosure url="https://f8.pmo.ee/DuPqW-g7rBKiQtipgSfVWNDTwBM=/480x270/smart/nginx/o/2017/01/23/6272037t1h1879.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Neli kuulsuste stilistide nippi, mis päästavad iga soengu</title>
+      <description>Kätte on jõudnud auhinnahooaeg ning nii mõnigi kuulsuste punase vaiba soeng on see, mis loob trendid alanud aastaks.</description>
+      <link>http://pmo.ee/3988747</link>
+      <guid isPermaLink="false">pm#3988747</guid>
+      <pubDate>Mon, 23 Jan 2017 13:40:24 +0200</pubDate>
+      <author>Dagmar Lamp</author>
+      <category domain="http://naine24.postimees.ee">Naine</category>
+      <category domain="http://naine24.postimees.ee/rubriik/862">Ilu &amp; mood</category>
+      <enclosure url="https://f10.pmo.ee/gd_cmBuRQB7Ytw5lzdH8JqNW7HQ=/480x270/smart/nginx/o/2017/01/23/6271983t1hdd0b.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Pildid: Ivanka Trump võttis pühapäeval lõdvalt</title>
+      <description>USA uue presidendi Donald Trumpi tütar Ivanka Trump säras möödunud reedel oma isa ametisse astumise tseremoonial, kandes Carolina Herrera virsikukarva õhtukleiti, kuid pühapäeval ilmus avalikusse sportliku lõikega lihtsas musta värvi kleidis ja soenguta.</description>
+      <link>http://pmo.ee/3988899</link>
+      <guid isPermaLink="false">pm#3988899</guid>
+      <pubDate>Mon, 23 Jan 2017 13:36:31 +0200</pubDate>
+      <author>Inna-Katrin Hein</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/16">Kirev elu</category>
+      <enclosure url="https://f11.pmo.ee/Z0D-5Eoe1gtlydfy03o3nu4jrcI=/480x270/smart/nginx/o/2017/01/23/6272325t1ha34a.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Rail Balticu ühisfirma vahetas nõukogu juhi välja</title>
+      <description>Möödunud reedel sai heakskiidu otsus määrata lätlane Edvīns Bērziņš kolme Balti riigi Rail Balticu ühisfirma RB Rail AS nõukogu juhiks.</description>
+      <link>http://pmo.ee/3988895</link>
+      <guid isPermaLink="false">pm#3988895</guid>
+      <pubDate>Mon, 23 Jan 2017 13:33:34 +0200</pubDate>
+      <author>Siiri Liiva</author>
+      <category domain="http://majandus24.postimees.ee">Majandus</category>
+      <category domain="http://majandus24.postimees.ee/rubriik/1216">Juhtimine</category>
+      <enclosure url="https://f12.pmo.ee/-r0WODjGw7BCpv6f56jXyo2v9y4=/480x270/smart/nginx/o/2017/01/23/6272381t1h5cde.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Uus kaamera tabas esmakordselt valguse lööklaine</title>
+      <description>Lisaks uutele teadmistele valguse füüsika kohta võimaldab uus kaameraseade tabada pildile ka neuronite ja supernoovade hingeelu, kirjutab New Scientist.&#13;
+ </description>
+      <link>http://pmo.ee/3988865</link>
+      <guid isPermaLink="false">pm#3988865</guid>
+      <pubDate>Mon, 23 Jan 2017 13:30:30 +0200</pubDate>
+      <author>Kaur Maran</author>
+      <category domain="http://tehnika.postimees.ee">Teadus ja tehnika</category>
+      <category domain="http://tehnika.postimees.ee/rubriik/3113">Numbrid ja tehnoloogia</category>
+      <enclosure url="https://f11.pmo.ee/_wiFRsKtthHVpTUJsLC8t8Q5km0=/480x270/smart/nginx/o/2017/01/23/6272319t1he813.png" length="" type="image/png"/>
+    </item>
+    <item>
+      <title>Video: nii üritasid Tänak ja Järveoja Monte Carlos streikivat autot remontida</title>
+      <description>Ott Tänak ja Martin Järveoja pidid Monte Carlo ralli viimasel päeval võitlema autoga, mille mootoril kõik silindrid ei töötanud. Seetõttu kaotati küll kõvasti aega, ent viimaks suudeti lõpetada siiski kolmanda kohaga ja jääda poodiumile püsima.</description>
+      <link>http://pmo.ee/3988889</link>
+      <guid isPermaLink="false">pm#3988889</guid>
+      <pubDate>Mon, 23 Jan 2017 13:29:55 +0200</pubDate>
+      <author>Postimees Sport</author>
+      <category domain="http://sport.postimees.ee">Sport</category>
+      <category domain="http://sport.postimees.ee/rubriik/164">Auto ja Moto</category>
+      <enclosure url="https://f7.pmo.ee/71ltRF55ZuH1quYRc6UtwH8xErY=/480x270/smart/nginx/o/2017/01/22/6270455t1h6707.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Karina Orlova: nüüd siis kiitleb Putin Venemaa prostituutidega</title>
+      <description>Washingtonis elav Ehho Moskvõ ajakirjanik Karina Orlova arutleb, mis on valesti Venemaa presidendiga, kes ütleb: «Meil on parimad prostituudid?»</description>
+      <link>http://pmo.ee/3988603</link>
+      <guid isPermaLink="false">pm#3988603</guid>
+      <pubDate>Mon, 23 Jan 2017 13:25:36 +0200</pubDate>
+      <author>Karina Orlova</author>
+      <category domain="http://arvamus.postimees.ee">Arvamus</category>
+      <enclosure url="https://f10.pmo.ee/xkuEB9EBgRP1QqWF4kBPLEsLUVg=/480x270/smart/nginx/o/2015/07/09/4261249t1hca1e.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Tööraamatu ära visanud inimesed saavad töötamist tõendada mitmel viisil</title>
+      <description>Oma tööraamatu ära visanud või ära kaotanud inimestel, kellel on tarvis tõestada sotsiaalkindlustusametile oma töötamist, saavad seda teha mitmel viisil, näiteks töölepingu alusel, arhiiviteatiste või tunnistajate abil.</description>
+      <link>http://pmo.ee/3988885</link>
+      <guid isPermaLink="false">pm#3988885</guid>
+      <pubDate>Mon, 23 Jan 2017 13:25:14 +0200</pubDate>
+      <author>Andres Einmann</author>
+      <category domain="http://www.postimees.ee">Postimees</category>
+      <category domain="http://www.postimees.ee/rubriik/122">Eesti uudised</category>
+      <enclosure url="https://f7.pmo.ee/CYk2hMxO4ZHFawvKv_F8WrrpzRQ=/480x270/smart/nginx/o/2017/01/23/6272341t1h9a76.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Gambia ekspresident tegi enne eksiili lendamist riigikassa tühjaks</title>
+      <description>Eksiili läinud Gambia ekspresident Yahya Jammeh riisus ametiaja viimastel nädalatel riigikassast miljoneid dollareid, tühjendadest riigikassa, ütles täna uue presidendi Adama Barrow' nõunik.</description>
+      <link>http://pmo.ee/3988877</link>
+      <guid isPermaLink="false">pm#3988877</guid>
+      <pubDate>Mon, 23 Jan 2017 13:21:50 +0200</pubDate>
+      <author>AFP/BNS</author>
+      <category domain="http://maailm.postimees.ee">Maailm</category>
+      <category domain="http://maailm.postimees.ee/rubriik/2277">Uudised</category>
+      <enclosure url="https://f9.pmo.ee/nIARSluOPqnwKqdxlG4-biI_w1E=/2220x0:4380x3840/480x270/smart/nginx/o/2017/01/23/6272323t1h5ffb.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Memory 2017 kontserttuuri publik annetas vähihaigete toetuseks üle 7000 euro </title>
+      <description>Jaanuaris kogusid vähiravifondi «Kingitud elu» vabatahtlikud annetusi Vanemuise Memory 2017 kontserttuuril Tartus, Tallinnas, Pärnus, Jõhvis ja Paides. Fondi lisandus vähihaigete toetuseks üle 7000 euro – oluliselt rohkem kui sama tuuri käigus varasematel aastatel. Kontserdipublik sai vähihaigeid toetada sularahas, pangakaardiga või telefonikõnega tehtud spontaanse annetusega. </description>
+      <link>http://pmo.ee/3988859</link>
+      <guid isPermaLink="false">pm#3988859</guid>
+      <pubDate>Mon, 23 Jan 2017 13:20:48 +0200</pubDate>
+      <author>Elu24.ee</author>
+      <category domain="http://elu24.postimees.ee">Elu24</category>
+      <category domain="http://elu24.postimees.ee/rubriik/1494">Uudised</category>
+      <enclosure url="https://f12.pmo.ee/hySyEZy6c0ulkMXRAa6r6Isa5Vc=/0x150:1080x555/480x270/smart/nginx/o/2017/01/23/6272337t1haf37.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Suri maailma üks mõjukaimaid trummareid</title>
+      <description>Jaki Liebezeit on surnud. Maailma üks mõjukamaid trummareid suri 78 aasta vanuses rahulikult oma kodus.</description>
+      <link>http://pmo.ee/3988861</link>
+      <guid isPermaLink="false">pm#3988861</guid>
+      <pubDate>Mon, 23 Jan 2017 13:11:13 +0200</pubDate>
+      <author>Janar Ala</author>
+      <category domain="http://kultuur.postimees.ee">Kultuur</category>
+      <enclosure url="https://f7.pmo.ee/jJYPe81liJmZwxHtgXtuYUXIlcw=/480x270/smart/nginx/o/2017/01/23/6272315t1h346d.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Naudi DocPointi filmivalikut kodudiivanilt</title>
+      <description>Tallinnas ja Helsingis toimuv filmifestival DocPoint laieneb algaval nädalal ka ETV2 ekraanile. Vaatajateni jõuab kolm mõjukat filmi möödunud aastast.</description>
+      <link>http://pmo.ee/3988853</link>
+      <guid isPermaLink="false">pm#3988853</guid>
+      <pubDate>Mon, 23 Jan 2017 13:09:29 +0200</pubDate>
+      <author>Hendrik Alla</author>
+      <category domain="http://kultuur.postimees.ee">Kultuur</category>
+      <category domain="http://kultuur.postimees.ee/rubriik/2193">Film</category>
+      <enclosure url="https://f9.pmo.ee/4pujeYJlqjzverf_DeAFamHOTAc=/480x270/smart/nginx/o/2017/01/23/6272311t1h79c2.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>DigiDoc portaal toetab nüüd ka Läti ja Leedu digidokumente</title>
+      <description>Digiallkirjastamise teenust pakkuv DigiDoc portaal pakub uuenduskuuri läbimise järel alates tänasest ka Läti ja Leedu digikonteinerite failivorminguid EDoc ja Adoc.</description>
+      <link>http://pmo.ee/3988849</link>
+      <guid isPermaLink="false">pm#3988849</guid>
+      <pubDate>Mon, 23 Jan 2017 13:09:04 +0200</pubDate>
+      <author>Aivar Pau</author>
+      <category domain="http://tehnika.postimees.ee">Teadus ja tehnika</category>
+      <category domain="http://tehnika.postimees.ee/rubriik/524">Uudised</category>
+      <enclosure url="https://f12.pmo.ee/-cqQH6A6k8L-RHNQkTemTvYYqmQ=/480x270/smart/nginx/o/2017/01/23/6272309t1h77c1.png" length="" type="image/png"/>
+    </item>
+    <item>
+      <title>Eesti paistab euroliidus jätkuvalt silma oma välisvõlaga</title>
+      <description>Eelmise aasta kolmandas kvartalis oli Eesti valitsussektori võlg 9,6 protsendiga sisemajanduse koguproduktist (SKP) jätkuvalt Euroopa Liidu madalaim.</description>
+      <link>http://pmo.ee/3988837</link>
+      <guid isPermaLink="false">pm#3988837</guid>
+      <pubDate>Mon, 23 Jan 2017 12:59:54 +0200</pubDate>
+      <author>BNS</author>
+      <category domain="http://majandus24.postimees.ee">Majandus</category>
+      <category domain="http://majandus24.postimees.ee/rubriik/747">Euro</category>
+      <enclosure url="https://f11.pmo.ee/N6uRBXMGSSiA6ac3E6fGB_hL4dY=/480x270/smart/nginx/o/2017/01/23/6272265t1h0d5c.jpg" length="" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Vaba Tallinna Kodanik tahab lõpetada Tallinna TV ja propagandalehtede ülalpidamise</title>
+      <description>Kohalikel valimistel osaleda plaaniv valimisliit Vaba Tallinna Kodanik avalikustas viiest eesmärgist koosneva programmi, mille kohaselt soovivad nad muu hulgas kärpida vähemalt 10 korda linna avalike suhete eelarvet ning lõpetada Tallinna Televisiooni ja propagandalehtede ülalpidamise.</description>
+      <link>http://pmo.ee/3988647</link>
+      <guid isPermaLink="false">pm#3988647</guid>
+      <pubDate>Mon, 23 Jan 2017 12:57:04 +0200</pubDate>
+      <author>Karin Kangro</author>
+      <category domain="http://www.postimees.ee">Postimees</category>
+      <category domain="http://www.postimees.ee/rubriik/122">Eesti uudised</category>
+      <enclosure url="https://f9.pmo.ee/WQTqdn5jZmYP1PQ8Ax0JhHLHMmc=/480x270/smart/nginx/o/2012/01/03/900230t1h6eb0.jpg" length="" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
