@@ -23,7 +23,7 @@ public class Main extends Application {
 
     public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
         launch(args);
-        XMLreader.readXML();
+        //XMLreader.readXML("http://www.postimees.ee/rss");
 
     }
 }

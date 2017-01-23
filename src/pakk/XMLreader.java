@@ -23,9 +23,9 @@ import java.util.List;
 public class XMLreader {
 
 
-    public static List<News> readXML() throws IOException, SAXException, ParserConfigurationException {
+    public static List<News> readXML(String rssurl) throws IOException, SAXException, ParserConfigurationException {
 
-        URL u = new URL("http://postimees.ee/rss");
+        URL u = new URL(rssurl);
         InputStream inputFile = u.openStream();
 
         DocumentBuilderFactory dBuilderFactory = DocumentBuilderFactory.newInstance();
@@ -54,7 +54,7 @@ public class XMLreader {
 
             }
         }
-        System.out.println(Arrays.toString(newsList.toArray()));
+        //System.out.println(Arrays.toString(newsList.toArray()));
         return newsList;
     }
 }
