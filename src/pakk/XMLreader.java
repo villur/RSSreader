@@ -11,8 +11,10 @@ import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.File;
 import java.io.IOException;
+import java.io.InputStream;
 import java.net.URL;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -23,13 +25,16 @@ public class XMLreader {
 
     public static List<News> readXML() throws IOException, SAXException, ParserConfigurationException {
 
-        URL url = new URL("http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml");
-        File inputFile = new File(url.getFile());
+        //URL url = new URL("http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml");
+        //File inputFile = new File(url.getFile());
+
+        URL u = new URL("http://postimees.ee/rss");
+        InputStream inputFile = u.openStream();
 
 
 
 
-        //File inputFile = new File("www.postimees.ee/rss.xml");
+        //File inputFile = new File("xmlfile1.xml");
         DocumentBuilderFactory dBuilderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dBuilderFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(inputFile);
@@ -60,7 +65,7 @@ public class XMLreader {
 
             }
         }
-        //System.out.println(Arrays.toString(newsList.toArray()));
+        System.out.println(Arrays.toString(newsList.toArray()));
         return newsList;
     }
 }
