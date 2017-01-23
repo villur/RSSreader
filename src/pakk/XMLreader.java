@@ -25,31 +25,20 @@ public class XMLreader {
 
     public static List<News> readXML() throws IOException, SAXException, ParserConfigurationException {
 
-        //URL url = new URL("http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml");
-        //File inputFile = new File(url.getFile());
-
         URL u = new URL("http://postimees.ee/rss");
         InputStream inputFile = u.openStream();
 
-
-
-
-        //File inputFile = new File("xmlfile1.xml");
         DocumentBuilderFactory dBuilderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dBuilderFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(inputFile);
         doc.getDocumentElement().normalize();
-        //System.out.println("Root element :" + doc.getDocumentElement().getNodeName());
         NodeList nList = doc.getElementsByTagName("item");
-        //System.out.println("----------------------------");
 
-        List<News> newsList = new ArrayList<News>();
+        List<News> newsList = new ArrayList<>();
 
         for (int temp = 0; temp < nList.getLength(); temp++) {
 
             Node nNode = nList.item(temp);
-
-            //System.out.println("\nCurrent Element :" + nNode.getNodeName());
 
             if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 
