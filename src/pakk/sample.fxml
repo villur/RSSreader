@@ -26,7 +26,7 @@
                <children>
                   <TextArea fx:id="textBox1" layoutX="34.0" layoutY="36.0" prefHeight="222.0" prefWidth="280.0" wrapText="true" />
                   <TextField fx:id="authorBox" layoutX="34.0" layoutY="285.0" />
-                  <Hyperlink layoutX="34.0" layoutY="329.0" text="Hyperlink" />
+                  <Hyperlink fx:id="hyperLink" layoutX="34.0" layoutY="329.0" onMouseClicked="#openHyperLink" text="Hyperlink" />
                   <Label layoutX="34.0" layoutY="268.0" text="Autor" />
                   <Label layoutX="34.0" layoutY="14.0" text="Sisu" />
                </children></AnchorPane>
