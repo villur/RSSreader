@@ -9,6 +9,7 @@ import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class Controller {
@@ -23,8 +24,16 @@ public class Controller {
     @FXML
     private void handleButtonAction() throws ParserConfigurationException, SAXException, IOException {
 
-        //XMLreader.readXML(urlBox.getText());
-        textBox1.setText(String.valueOf(XMLreader.readXML(urlBox.getText())));
+        ArrayList<News> news2;
+        news2 = (ArrayList<News>) XMLreader.readXML(urlBox.getText());
+
+        XMLreader.readXML(urlBox.getText());
+        //textBox1.setText(String.valueOf(XMLreader.readXML(urlBox.getText())));
+
+
+        for (int i = 0; i < news2.size(); i++) {
+            textBox1.setText((news2.get(i).getTitle()));
+        }
     }
 
 
