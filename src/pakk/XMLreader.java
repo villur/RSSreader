@@ -20,6 +20,8 @@ public class XMLreader {
 
     public static List<News> readXML(String rssurl) throws IOException, SAXException, ParserConfigurationException {
 
+
+        //loen sisse URLi sisu
         URL u = new URL(rssurl);
         InputStream inputFile = u.openStream();
 
@@ -27,12 +29,16 @@ public class XMLreader {
         //See leht oli abiks XML parseri kirjutamisel
         //https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm
 
+
+        //parsin sisse loetud XML faili ja korjan välja <item> tagide sees olevad uudised
         DocumentBuilderFactory dBuilderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dBuilderFactory.newDocumentBuilder();
         Document doc = dBuilder.parse(inputFile);
         doc.getDocumentElement().normalize();
         NodeList nList = doc.getElementsByTagName("item");
 
+
+        //Loon uue arraylisti mis võtab vastu News objekte ja for loopiga lisan need sinna vastaval kujul.
         List<News> newsList = new ArrayList<>();
 
         for (int temp = 0; temp < nList.getLength(); temp++) {

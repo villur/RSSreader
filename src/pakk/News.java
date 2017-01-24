@@ -1,5 +1,7 @@
 package pakk;
 
+
+//News objekti klass getterite ja setteritega.
 public class News {
 
     private String Title;
@@ -7,36 +9,36 @@ public class News {
     private String Author;
     private String Link;
 
-    String getTitle() {
+    public String getTitle() {
         return Title;
     }
 
-    void setTitle(String title) {
+    public void setTitle(String title) {
         Title = title;
     }
 
-    String getDescription() {
+    public String getDescription() {
         return Description;
     }
 
-    void setDescription(String description) {
+    public void setDescription(String description) {
         Description = description;
     }
 
-    String getAuthor() {
+    public String getAuthor() {
         return Author;
     }
 
-    void setAuthor(String author) {
+    public void setAuthor(String author) {
         Author = author;
     }
 
 
-    String getLink() {
+    public String getLink() {
         return Link;
     }
 
-    void setLink(String link) {
+    public void setLink(String link) {
         Link = link;
     }
 

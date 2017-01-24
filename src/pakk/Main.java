@@ -12,6 +12,9 @@ import java.io.IOException;
 
 public class Main extends Application {
 
+
+    //start meetod, loob visuaalse scene minu fxml failist.
+
     @Override
     public void start(Stage primaryStage) throws Exception{
         Parent root = FXMLLoader.load(getClass().getResource("sample.fxml"));

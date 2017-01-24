@@ -19,13 +19,18 @@ import java.util.ArrayList;
 
 public class Controller {
 
+
+
     @FXML
-    public TextField urlBox;
-    public TextArea textBox1;
+    public TextField urlField;
+    public TextArea textBox;
     public ScrollPane container;
     public TextField authorBox;
     public Hyperlink hyperLink;
 
+
+
+    //Minu meetod mis avab hyperlinki kui seda vajutada
     @FXML
     private void openHyperLink() throws MalformedURLException {
         //http://stackoverflow.com/questions/5226212/how-to-open-the-default-webbrowser-using-java
@@ -49,30 +54,31 @@ public class Controller {
         }
     }
 
-
+    //peamine meetod mis loeb sisse andmed kasutades XML readerit ning loob news objektide listi põhjal kogu meie visuaalse poole sisu
     @FXML
     private void handleButtonAction() throws ParserConfigurationException, SAXException, IOException {
 
         VBox newsTitles = new VBox();
 
-        ArrayList<News> news = (ArrayList<News>) XMLreader.readXML(urlBox.getText());
+        ArrayList<News> news = (ArrayList<News>) XMLreader.readXML(urlField.getText());
 
         for (int j = 0; j < news.size(); j++) {
-            Button btn = new Button();
-            btn.setText(news.get(j).getTitle());
+            Hyperlink title = new Hyperlink();
+            title.setText(news.get(j).getTitle());
             int finalJ = j;
-            btn.setWrapText(true);
-            btn.setPrefWidth(container.getPrefWidth()-15);
-            btn.setOnMouseClicked(event -> {
-                textBox1.setText(news.get(finalJ).getDescription());
+            title.setWrapText(true);
+            title.setPrefWidth(container.getPrefWidth()-15);
+            title.setOnMouseClicked(event -> {
+                textBox.setText(news.get(finalJ).getDescription());
                 authorBox.setText(news.get(finalJ).getAuthor());
                 hyperLink.setText(news.get(finalJ).getLink());
+
             });
 
             // Kasutasin seda linki, et lisada oma elementidele action listeneri.
             // http://www.java2s.com/Code/Java/JavaFX/AddClickactionlistenertoButton.htm
 
-            newsTitles.getChildren().add(btn);
+            newsTitles.getChildren().add(title);
         }
 
         container.setContent(newsTitles);
