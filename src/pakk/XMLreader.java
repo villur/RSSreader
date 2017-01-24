@@ -15,9 +15,6 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by villur on 23/01/17.
- */
 public class XMLreader {
 
 
