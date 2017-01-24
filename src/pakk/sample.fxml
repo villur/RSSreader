@@ -15,7 +15,7 @@
                <children>
                   <TextField fx:id="urlBox" layoutX="4.0" layoutY="14.0" text="http://www.postimees.ee/rss" />
                   <Button fx:id="myButton" defaultButton="true" layoutX="14.0" layoutY="51.0" mnemonicParsing="false" onMouseClicked="#handleButtonAction" text="Lae andmeddddd" />
-                  <ScrollPane layoutX="4.0" layoutY="99.0" prefHeight="276.0" prefWidth="200.0">
+                  <ScrollPane fx:id="container" layoutX="4.0" layoutY="99.0" prefHeight="276.0" prefWidth="200.0">
                     <content>
                       <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="274.0" prefWidth="200.0" />
                     </content>
@@ -24,7 +24,7 @@
             </AnchorPane>
           <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
                <children>
-                  <TextArea fx:id="textBox1" layoutX="27.0" layoutY="32.0" prefHeight="326.0" prefWidth="319.0" />
+                  <TextArea fx:id="textBox1" layoutX="27.0" layoutY="32.0" prefHeight="326.0" prefWidth="319.0" wrapText="true" />
                </children></AnchorPane>
         </items>
       </SplitPane>

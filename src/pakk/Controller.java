@@ -1,10 +1,13 @@
 package pakk;
 
+import com.sun.deploy.xml.XMLable;
 import javafx.event.ActionEvent;
+import javafx.event.EventHandler;
 import javafx.fxml.FXML;
-import javafx.scene.control.Button;
-import javafx.scene.control.TextArea;
-import javafx.scene.control.TextField;
+import javafx.scene.control.*;
+import javafx.scene.input.MouseEvent;
+import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.VBox;
 import org.xml.sax.SAXException;
 
 import javax.xml.parsers.ParserConfigurationException;
@@ -17,23 +20,36 @@ public class Controller {
     @FXML
     public TextField urlBox;
     public TextArea textBox1;
-
-
+    public ScrollPane container;
 
 
     @FXML
     private void handleButtonAction() throws ParserConfigurationException, SAXException, IOException {
 
-        ArrayList<News> news2;
-        news2 = (ArrayList<News>) XMLreader.readXML(urlBox.getText());
+        VBox newsTitles = new VBox();
 
-        XMLreader.readXML(urlBox.getText());
-        //textBox1.setText(String.valueOf(XMLreader.readXML(urlBox.getText())));
+        ArrayList<News> news = (ArrayList<News>) XMLreader.readXML(urlBox.getText());
+
+        for (int j = 0; j < news.size(); j++) {
+            Button btn = new Button();
+            btn.setText(news.get(j).getTitle());
+            int finalJ = j;
+            btn.setOnMouseClicked(new EventHandler<MouseEvent>() {
+                @Override
+                public void handle(MouseEvent event) {
+                        textBox1.setText(news.get(finalJ).getDescription());
+                }
+            });
+
+            newsTitles.getChildren().add(btn);
 
 
-        for (int i = 0; i < news2.size(); i++) {
-            textBox1.setText((news2.get(i).getTitle()));
+            //newsTitles.getChildren().add(new Hyperlink.(news.get(j).getTitle()));
         }
+
+        container.setContent(newsTitles);
+
+
     }
 
 
