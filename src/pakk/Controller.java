@@ -1,19 +1,15 @@
 package pakk;
 
-import com.sun.deploy.xml.XMLable;
-import javafx.event.ActionEvent;
 import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
 import javafx.scene.input.MouseEvent;
-import javafx.scene.layout.AnchorPane;
 import javafx.scene.layout.VBox;
 import org.xml.sax.SAXException;
-
 import javax.xml.parsers.ParserConfigurationException;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.Arrays;
+
 
 public class Controller {
 
@@ -36,12 +32,7 @@ public class Controller {
             int finalJ = j;
             btn.setWrapText(true);
             btn.setPrefWidth(200);
-            btn.setOnMouseClicked(new EventHandler<MouseEvent>() {
-                @Override
-                public void handle(MouseEvent event) {
-                        textBox1.setText(news.get(finalJ).getDescription());
-                }
-            });
+            btn.setOnMouseClicked(event -> textBox1.setText(news.get(finalJ).getDescription()));
 
             // Kasutasin seda linki, et lisada oma elementidele action listeneri.
             // http://www.java2s.com/Code/Java/JavaFX/AddClickactionlistenertoButton.htm
