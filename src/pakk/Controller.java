@@ -17,12 +17,14 @@ public class Controller {
     public TextField urlBox;
     public TextArea textBox1;
 
+
+
+
     @FXML
     private void handleButtonAction() throws ParserConfigurationException, SAXException, IOException {
 
-        XMLreader.readXML(urlBox.getText());
+        //XMLreader.readXML(urlBox.getText());
         textBox1.setText(String.valueOf(XMLreader.readXML(urlBox.getText())));
-
     }
 
 
