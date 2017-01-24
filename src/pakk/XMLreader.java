@@ -47,14 +47,18 @@ public class XMLreader {
                 Element eElement = (Element) nNode;
                 News news = new News();
 
-                if (eElement.getElementsByTagName("title").item(0).getTextContent() != null) {
+                if (eElement.getElementsByTagName("title").getLength() != 0) {
                     news.setTitle(eElement.getElementsByTagName("title").item(0).getTextContent());
                 }
-                if (eElement.getElementsByTagName("description").item(0).getTextContent() != null) {
+                if (eElement.getElementsByTagName("description").getLength() != 0) {
                     news.setDescription(eElement.getElementsByTagName("description").item(0).getTextContent());
                 }
-                if (eElement.getElementsByTagName("author").item(0).getTextContent() != null) {
+                if (eElement.getElementsByTagName("author").getLength() != 0) {
                     news.setAuthor(eElement.getElementsByTagName("author").item(0).getTextContent());
+                }
+
+                if (eElement.getElementsByTagName("link").getLength() != 0) {
+                    news.setLink(eElement.getElementsByTagName("link").item(0).getTextContent());
                 }
 
                 newsList.add(news);

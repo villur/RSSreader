@@ -1,9 +1,7 @@
 package pakk;
 
-import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
-import javafx.scene.input.MouseEvent;
 import javafx.scene.layout.VBox;
 import org.xml.sax.SAXException;
 import javax.xml.parsers.ParserConfigurationException;
@@ -17,6 +15,7 @@ public class Controller {
     public TextField urlBox;
     public TextArea textBox1;
     public ScrollPane container;
+    public TextField authorBox;
 
 
     @FXML
@@ -31,8 +30,8 @@ public class Controller {
             btn.setText(news.get(j).getTitle());
             int finalJ = j;
             btn.setWrapText(true);
-            btn.setPrefWidth(200);
-            btn.setOnMouseClicked(event -> textBox1.setText(news.get(finalJ).getDescription()));
+            btn.setPrefWidth(container.getPrefWidth()-15);
+            btn.setOnMouseClicked(event -> textBox1.setText(news.get(finalJ).getFormattedNews()));
 
             // Kasutasin seda linki, et lisada oma elementidele action listeneri.
             // http://www.java2s.com/Code/Java/JavaFX/AddClickactionlistenertoButton.htm
