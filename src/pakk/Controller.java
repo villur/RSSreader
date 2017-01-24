@@ -34,6 +34,8 @@ public class Controller {
             Button btn = new Button();
             btn.setText(news.get(j).getTitle());
             int finalJ = j;
+            btn.setWrapText(true);
+            btn.setPrefWidth(200);
             btn.setOnMouseClicked(new EventHandler<MouseEvent>() {
                 @Override
                 public void handle(MouseEvent event) {
