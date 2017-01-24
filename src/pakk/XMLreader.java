@@ -9,12 +9,10 @@ import org.xml.sax.SAXException;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -27,6 +25,10 @@ public class XMLreader {
 
         URL u = new URL(rssurl);
         InputStream inputFile = u.openStream();
+
+
+        //See leht oli abiks XML parseri kirjutamisel
+        //https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm
 
         DocumentBuilderFactory dBuilderFactory = DocumentBuilderFactory.newInstance();
         DocumentBuilder dBuilder = dBuilderFactory.newDocumentBuilder();
@@ -56,8 +58,6 @@ public class XMLreader {
                 }
 
                 newsList.add(news);
-
-
 
             }
         }

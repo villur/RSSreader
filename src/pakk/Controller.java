@@ -43,10 +43,10 @@ public class Controller {
                 }
             });
 
+            // Kasutasin seda linki, et lisada oma elementidele action listeneri.
+            // http://www.java2s.com/Code/Java/JavaFX/AddClickactionlistenertoButton.htm
+
             newsTitles.getChildren().add(btn);
-
-
-            //newsTitles.getChildren().add(new Hyperlink.(news.get(j).getTitle()));
         }
 
         container.setContent(newsTitles);

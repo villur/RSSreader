@@ -32,9 +32,5 @@ public class News {
     public void setAuthor(String author) {
         Author = author;
     }
-    @Override
-    public String toString() {
-        return "\n" + this.getTitle() + "\n" +
-               this.getAuthor() ;
-    }
+
 }
