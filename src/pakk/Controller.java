@@ -32,9 +32,8 @@ public class Controller {
     //Minu meetod mis avab hyperlinki kui seda vajutada
     @FXML
     private void openHyperLink() throws MalformedURLException {
+
         //http://stackoverflow.com/questions/5226212/how-to-open-the-default-webbrowser-using-java
-
-
         //Võtan hyperLink väljast URLi ja proovin seda avada browseris
         String url = hyperLink.getText();
 
