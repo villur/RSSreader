@@ -2,7 +2,6 @@ package pakk;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.*;
-import javafx.scene.control.Button;
 import javafx.scene.control.ScrollPane;
 import javafx.scene.control.TextArea;
 import javafx.scene.control.TextField;
@@ -19,7 +18,7 @@ import java.util.ArrayList;
 
 public class Controller {
 
-
+    //Defineerin oma vajalikud väljad
 
     @FXML
     public TextField urlField;
@@ -35,6 +34,8 @@ public class Controller {
     private void openHyperLink() throws MalformedURLException {
         //http://stackoverflow.com/questions/5226212/how-to-open-the-default-webbrowser-using-java
 
+
+        //Võtan hyperLink väljast URLi ja proovin seda avada browseris
         String url = hyperLink.getText();
 
         if(Desktop.isDesktopSupported()){
@@ -58,10 +59,15 @@ public class Controller {
     @FXML
     private void handleButtonAction() throws ParserConfigurationException, SAXException, IOException {
 
+        //Loon uue vertical box konteineri kuhu hakkan oma peaklirja objekte lisama.
         VBox newsTitles = new VBox();
 
+
+        //Tekitan omale listi uudiste objektidest
         ArrayList<News> news = (ArrayList<News>) XMLreader.readXML(urlField.getText());
 
+
+        //For loopiga käin läbi kõik uudised ja korjan sealt pealkirjad välja ning teen nendest FX elenemdid mida saab vajutada
         for (int j = 0; j < news.size(); j++) {
             Hyperlink title = new Hyperlink();
             title.setText(news.get(j).getTitle());
@@ -75,12 +81,10 @@ public class Controller {
 
             });
 
-            // Kasutasin seda linki, et lisada oma elementidele action listeneri.
-            // http://www.java2s.com/Code/Java/JavaFX/AddClickactionlistenertoButton.htm
-
             newsTitles.getChildren().add(title);
         }
 
+        //Lisan konteinerisse oma pealkirja objektid/fx elemendid.
         container.setContent(newsTitles);
 
 

@@ -25,7 +25,6 @@ public class XMLreader {
         URL u = new URL(rssurl);
         InputStream inputFile = u.openStream();
 
-
         //See leht oli abiks XML parseri kirjutamisel
         //https://www.tutorialspoint.com/java_xml/java_dom_parse_document.htm
 
@@ -40,6 +39,8 @@ public class XMLreader {
 
         //Loon uue arraylisti mis võtab vastu News objekte ja for loopiga lisan need sinna vastaval kujul.
         List<News> newsList = new ArrayList<>();
+
+        //Käin for loopiga kõik item elemendid läbi ja tekitan nendest uudise objektid.
 
         for (int temp = 0; temp < nList.getLength(); temp++) {
 

@@ -4,6 +4,8 @@ package pakk;
 //News objekti klass getterite ja setteritega.
 public class News {
 
+    //Defineerid vajalikud väljad
+
     private String Title;
     private String Description;
     private String Author;
